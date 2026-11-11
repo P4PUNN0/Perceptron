@@ -1,0 +1,9 @@
+# NetBeans and Ant build output
+/build/
+/dist/
+
+# NetBeans private machine-specific settings
+/nbproject/private/
+
+# Compiled Java classes
+*.class
