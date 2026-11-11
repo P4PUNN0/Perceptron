@@ -25,8 +25,6 @@ javac -d out src/perceptron/Perceptron.java
 java -cp out perceptron.Perceptron
 ```
 
-También puedes abrir la carpeta del proyecto en Apache NetBeans y ejecutar `perceptron.Perceptron`.
-
 ## Estructura
 
 - `src/perceptron/Perceptron.java`: implementación, persistencia de pesos y programa de demostración.
